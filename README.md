@@ -1,5 +1,5 @@
-# EduBridge
-This repository contains projects which were created at the time of learning Data Analytics from EduBridge:
+# EduBridge Learning
+This repository contains projects which were created at the time of learning Data Analytics from EduBridge Learning:
 
 1. Python program solving in Anaconda(Jupyter Notebook), MongoDB commands execution and Data Visualization using MS Excel.
 2. Library Management System using OOP's and Exception Handling concept. Librarian can add,view and remove books from the shelf.
